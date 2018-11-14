@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51510599-639c-4da6-9449-743c3f2d176c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v07_Merge_Sort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v07_Merge_Sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v07_Merge_Sort/SortTestSupporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v07_Q_Merge_Sort_Advance/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v07_Q_Merge_Sort_Advance/MergeSortBottomUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v09_Union_Find/Basic/UnionFind1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v09_Union_Find/Basic/UnionFind2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v09_Union_Find/Basic/UnionFindTestHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeByRank/UnionFind1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeByRank/UnionFind4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeBySize/UnionFind1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeBySize/UnionFind2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeBySize/UnionFind3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v10_Path_Compression/PathCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v01_Basic/DenseGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v01_Basic/SparseGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v02_VertexAdjacentIterator/DenseGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v02_VertexAdjacentIterator/SparseGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/Components.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/DenseGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/ReadGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/SparseGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/testG1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/testG2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/Components.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/DenseGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/ReadGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/SparseGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/testG1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/Components.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/DenseGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/ReadGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/ShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/SparseGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/testG1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-54983027">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="49" />
+          <entry key="txt" value="4" />
+          <entry key="vmoptions" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="49" />
+          <entry key="PLAIN_TEXT" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="660" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="660" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/Path.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/ShortestPath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#931#940#0" expanded="true" />
+                <element signature="e#1582#1591#0" expanded="true" />
+                <element signature="e#1813#1822#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="lsiy" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sortalgorithm/v04_SelectionSort_Detect_Performance/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/sortalgorithm/v04_SelectionSort_Detect_Performance/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v04_SelectionSort_Detect_Performance/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v04_SelectionSort_Detect_Performance/SelectionSort04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v05_InsertionSort/SelectionSort04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v05_InsertionSort/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v05_InsertionSort/Laboratory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v05_InsertionSort/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v05_InsertionSort_Advance/SortTestSupporter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v05_InsertionSort_Advance/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v06_Shell_Sort/ShellSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v06_Shell_Sort/SortTestSupporter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v06_Shell_Sort/Laboratory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v07_Merge_Sort/SortTestSupporter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v07_Merge_Sort/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v07_Merge_Sort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v07_Merge_Sort_Advance/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v07_Merge_Sort_Advance/MergeSortBottomUp.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/main/java/v09_Union_Find/UnionFind.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v07_Q_Merge_Sort_Advance/MergeSortBottomUp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v09_Union_Find/UnionFind1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v09_Union_Find/UnionFind2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v09_Union_Find/UnionFindTestHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v09_Union_Find/Basic/UnionFindTestHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v09_Union_Find/Basic/UnionFind2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeBySize/UnionFind1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeBySize/UnionFind2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeBySize/UnionFind3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeByRank/UnionFind1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeByRank/UnionFind4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v10_Path_Compression/PathCompression.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/DenseGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/SparseGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/Basic/SparseGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/VertexAdjacentIterator/DenseGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/VertexAdjacentIterator/SparseGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/DFS_and_Components/testG1.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/DFS_and_Components/testG2.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/DFS_and_Components/DenseGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/DFS_and_Components/Graph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/DFS_and_Components/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/DFS_and_Components/ReadGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/DFS_and_Components/SpaseGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/DFS_and_Components/Components.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/Components.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/Path.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/Graph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path.java" />
+        <option value="$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/ShortestPath.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1613" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturityJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="v11_Graph_Basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542216674676" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\algorithm\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.java.v11_Graph_Basic.v04_FindPath" />
+      <recent name="main.java.v11_Graph_Basic.VertexAdjacentIterator" />
+      <recent name="main.java.v09_Union_Find.OptimizeByRank" />
+      <recent name="v07_Merge_Sort_Advance" />
+      <recent name="v07_Merge_Sort" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\algorithm\src\main\java\v11_Graph_Basic\v05_BFS_and_Shortest_Path" />
+      <recent name="C:\Users\Administrator\IdeaProjects\algorithm\src\main\java\v11_Graph_Basic\v04_FindPath" />
+      <recent name="C:\Users\Administrator\IdeaProjects\algorithm\src\main\java\v11_Graph_Basic\DFS_and_Components" />
+      <recent name="C:\Users\Administrator\IdeaProjects\algorithm\src\main\java\v11_Graph_Basic\Vertex-Adjacent-Iterator" />
+      <recent name="C:\Users\Administrator\IdeaProjects\algorithm\src\main\java\v11_Graph_Basic\Basic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.UnionFind (1)">
+    <configuration name="Laboratory (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v06_Shell_Sort.Laboratory" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v06_Shell_Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Laboratory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v05_InsertionSort.Laboratory" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v05_InsertionSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v07_Merge_Sort.MergeSort" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v07_Merge_Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnionFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v09_Union_Find.UnionFind" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v09_Union_Find.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnionFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.v09_Union_Find.UnionFind" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.v09_Union_Find.Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Laboratory" />
+      <item itemvalue="Application.Laboratory (1)" />
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.UnionFind" />
+      <item itemvalue="Application.UnionFind (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UnionFind (1)" />
+        <item itemvalue="Application.UnionFind" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.Laboratory (1)" />
+        <item itemvalue="Application.Laboratory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51510599-639c-4da6-9449-743c3f2d176c" name="Default" comment="" />
+      <created>1532166011609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532166011609</updated>
+      <workItem from="1542201670762" duration="204000" />
+      <workItem from="1542206936983" duration="291000" />
+      <workItem from="1542207312046" duration="8292000" />
+    </task>
+    <task id="LOCAL-00001" summary="algorithm 1.0 for sharing">
+      <created>1532267025833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532267025833</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8787000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27249357" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32958803" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.11827957" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39950064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32900432" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17537314" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32958803" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32958803" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39950064" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32958803" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="algorithm 1.0 for sharing" />
+    <option name="LAST_COMMIT_MESSAGE" value="algorithm 1.0 for sharing" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/v05_InsertionSort_Advance/Laboratory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm.iml" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="75" lean-forward="true" selection-start-line="13" selection-start-column="75" selection-end-line="13" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v07_Q_Merge_Sort_Advance/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v06_Shell_Sort/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v07_Q_Merge_Sort_Advance/MergeSortBottomUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v09_Union_Find/UnionFind2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v09_Union_Find/UnionFind1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v09_Union_Find/UnionFindTestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v09_Union_Find/Basic/UnionFindTestHelper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v09_Union_Find/Basic/UnionFind1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeBySize/UnionFind1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding>
+            <element signature="e#591#592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v09_Union_Find/Basic/UnionFind2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeBySize/UnionFind3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeBySize/UnionFind2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeByRank/UnionFind4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v09_Union_Find/OptimizeByRank/UnionFind1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/DenseGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v10_Path_Compression/PathCompression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="30" column="69" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
+          <folding>
+            <element signature="e#1244#1245#0" expanded="true" />
+            <element signature="e#1285#1286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/SparseGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v01_Basic/SparseGraph.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v01_Basic/DenseGraph.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v02_VertexAdjacentIterator/SparseGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v02_VertexAdjacentIterator/DenseGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="e#1225#1234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/DFS_and_Components.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/testG2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/testG1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/ReadGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="27" column="96" selection-start-line="27" selection-start-column="96" selection-end-line="27" selection-end-column="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/SparseGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/DenseGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="68" column="20" lean-forward="true" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+          <folding>
+            <element signature="e#1496#1505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v03_DFS_and_Components/Components.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="51" column="30" lean-forward="true" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+          <folding>
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/Graph.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/ReadGraph.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/SparseGraph.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/DenseGraph.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/Components.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/testG1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-752">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v04_FindPath/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-336">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1146#1155#0" expanded="true" />
+            <element signature="e#1377#1386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/ReadGraph.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/DenseGraph.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/Components.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/Graph.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/SparseGraph.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/testG1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/v11_Graph_Basic/v05_BFS_and_Shortest_Path/ShortestPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#931#940#0" expanded="true" />
+            <element signature="e#1582#1591#0" expanded="true" />
+            <element signature="e#1813#1822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>algorithm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
