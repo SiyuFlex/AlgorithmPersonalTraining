@@ -5,7 +5,7 @@ import java.util.Vector;
 
 public class Path {
 
-    private Graph G;   // 图的引用
+    private main.java.v11_Graph_Basic.v05_BFS_and_Shortest_Path.Graph G;   // 图的引用
     private int s;     // 起始点
     private boolean[] visited;  // 记录dfs的过程中节点是否被访问
     private int[] from;         // 记录路径, from[i]表示查找的路径上i的上一个节点
@@ -21,7 +21,7 @@ public class Path {
     }
 
     // 构造函数, 寻路算法, 寻找图graph从s点到其他点的路径
-    public Path(Graph graph, int s){
+    public Path(main.java.v11_Graph_Basic.v05_BFS_and_Shortest_Path.Graph graph, int s){
 
         // 算法初始化
         G = graph;
